@@ -1,5 +1,0 @@
-Warning: Permanently added 'c208-030' (ECDSA) to the list of known hosts.
-WARNING (04/27/24 00:08:37): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6277565.hostlist.TxTyQh9l to get hosts
-starting job on c208-030
-/opt/apps/intel19/impi19_0/remora/1.8.5/bin/aux/report: line 34: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001818-fmriprep/remora_6277565/remora_timestamp.txt: Permission denied
